@@ -1,7 +1,7 @@
 ---
 title: "Arizona"
 date: 2021-09-08T16:59:14-07:00
-draft: true
+draft: false
 ---
 
 # US Census Quick Facts 
