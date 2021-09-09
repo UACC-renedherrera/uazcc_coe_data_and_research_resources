@@ -1,6 +1,6 @@
 theme: hugo-tufte
 languageCode: en-us
-baseurl: /
+baseurl: https://boring-jepsen-fe9c67.netlify.app/
 title: Data and Resources for UAZCC COE
 math: yes
 katex: yes
