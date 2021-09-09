@@ -1,6 +1,6 @@
----
-hasMath: false
-title: About This Site
----
++++
+title = "About This Site"
+hasMath = false 
++++
 
 Hello, I'm an example site that uses the Hugo Tufte theme.
