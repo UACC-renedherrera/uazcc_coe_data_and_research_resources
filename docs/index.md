@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+# Cancer Epidemiology
 
-You can use the [editor on GitHub](https://github.com/UACC-renedherrera/uazcc_coe_data_and_research_resources/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Clone the R Project
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+https://github.com/UACC-renedherrera/cancer_epidemiology
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## View the documentation
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+https://uacc-renedherrera.github.io/cancer_epidemiology/
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+# Demographics
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+## Clone the R Project
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/UACC-renedherrera/uazcc_coe_data_and_research_resources/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+https://github.com/UACC-renedherrera/catchment_characterization_demographics
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## View the documentation
+
+
+https://uacc-renedherrera.github.io/catchment_characterization_demographics/
