@@ -25,3 +25,17 @@
 
 
 [https://uacc-renedherrera.github.io/catchment_characterization_demographics/](https://uacc-renedherrera.github.io/catchment_characterization_demographics/)
+
+
+# R Resources
+
+
+## Happy Git and GitHub for the useR
+
+https://happygitwithr.com/
+
+
+## Big Book of R
+
+
+https://www.bigbookofr.com/?s=09
